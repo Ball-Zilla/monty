@@ -1,4 +1,5 @@
 #include "monty.h"
+#include <stdio.h>
 
 monty_t tool = {NULL, NULL, {NULL}, 0};
 
